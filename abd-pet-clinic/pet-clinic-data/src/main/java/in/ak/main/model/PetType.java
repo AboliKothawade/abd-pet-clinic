@@ -1,5 +1,5 @@
 package in.ak.main.model;
 
-public class PetType {
+public class PetType extends BaseEntity{
 
 }
