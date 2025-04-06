@@ -28,13 +28,10 @@
 		<url/>
 	</scm>
 	<properties>
+    <maven-release-plugin-artifactId>maven-release-plugin</maven-release-plugin-artifactId>
 		<spring-boot-maven-plugin-artifactId46>spring-boot-maven-plugin</spring-boot-maven-plugin-artifactId46>
 		<java.version>23</java.version>
 	</properties>
-	<dependencies>
-	</dependencies>
-
-
 
 	<modules>
 		<module>pet-clinic-data</module>
